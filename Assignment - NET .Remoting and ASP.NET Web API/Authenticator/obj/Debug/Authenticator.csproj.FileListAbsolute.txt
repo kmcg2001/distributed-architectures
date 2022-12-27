@@ -1,0 +1,12 @@
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment\ServiceProvider\Authenticator\obj\Debug\Authenticator.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment\ServiceProvider\Authenticator\obj\Debug\Authenticator.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment\ServiceProvider\Authenticator\bin\Debug\Authenticator.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment\ServiceProvider\Authenticator\bin\Debug\Authenticator.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment\ServiceProvider\Authenticator\bin\Debug\Authenticator.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment\ServiceProvider\Authenticator\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment\ServiceProvider\Authenticator\bin\Debug\System.ServiceModel.Primitives.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment\ServiceProvider\Authenticator\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment\ServiceProvider\Authenticator\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment\ServiceProvider\Authenticator\obj\Debug\Authenticator.csproj.CopyComplete
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment\ServiceProvider\Authenticator\obj\Debug\Authenticator.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment\ServiceProvider\Authenticator\obj\Debug\Authenticator.pdb
