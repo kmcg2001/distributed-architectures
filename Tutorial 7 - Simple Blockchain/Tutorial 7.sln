@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinerServer", "MinerServer\MinerServer.csproj", "{1A205B28-AD4D-4AB5-8D79-9B0FF40F10A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockchainServer", "BlockchainServer\BlockchainServer.csproj", "{38747910-441A-4973-9FA0-37E18ADE4A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionGenerator", "TransactionGenerator\TransactionGenerator.csproj", "{4E4401E5-EBA8-46C1-962A-056B94494B52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIClasses", "APIClasses\APIClasses.csproj", "{03A572A9-BBB9-4DB7-BB28-A8A34601CC01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A205B28-AD4D-4AB5-8D79-9B0FF40F10A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A205B28-AD4D-4AB5-8D79-9B0FF40F10A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A205B28-AD4D-4AB5-8D79-9B0FF40F10A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A205B28-AD4D-4AB5-8D79-9B0FF40F10A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38747910-441A-4973-9FA0-37E18ADE4A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38747910-441A-4973-9FA0-37E18ADE4A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38747910-441A-4973-9FA0-37E18ADE4A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38747910-441A-4973-9FA0-37E18ADE4A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4401E5-EBA8-46C1-962A-056B94494B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4401E5-EBA8-46C1-962A-056B94494B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4401E5-EBA8-46C1-962A-056B94494B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4401E5-EBA8-46C1-962A-056B94494B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A572A9-BBB9-4DB7-BB28-A8A34601CC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A572A9-BBB9-4DB7-BB28-A8A34601CC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A572A9-BBB9-4DB7-BB28-A8A34601CC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A572A9-BBB9-4DB7-BB28-A8A34601CC01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11CEB220-E59B-4739-B892-90931BCAE97D}
+	EndGlobalSection
+EndGlobal

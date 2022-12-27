@@ -1,0 +1,89 @@
+﻿@{
+    ViewBag.Title = "Users";
+}
+
+<h1>Create User</h1>
+<form>
+    <br />
+    <label>First Name</label>
+    <input type="text" id="fnameInput" name="fnameInput" placeholder='First Name' />
+
+    <label>Last Name</label>
+    <input type="text" id="lnameInput" name="lnameInput" placeholder='Last Name' />
+
+    <label>User ID</label>
+    <input type="text" id="idOutput" name="idOutput" placeholder='User ID' />
+    <br />
+</form>
+<button id="createUserButton" onclick="CreateUser()">Create User</button>
+
+<h1>View User</h1>
+<form>
+    <br />
+    <label>User ID</label>
+    <input type="text" id="idInput" name="idInput" placeholder='User ID' />
+
+    <label>First Name</label>
+    <input type="text" id="fnameOutput" name="fnameOutput" placeholder='First Name' />
+
+    <label>Last Name</label>
+    <input type="text" id="lnameOutput" name="lnameOutput" placeholder='Last Name' />
+    <br />
+</form>
+<button id="getUserButton" onclick="GetUser()">Retrieve User Information</button>
+
+<script>
+    function CreateUser() {
+        $.ajax({
+            url: '/api/BankOperations/CreateUser/' + $('#fnameInput').val() + '/' + $('#lnameInput').val(),
+            type: 'get',
+            contentType: 'application/json',
+            processData: false,
+            success: function (data, textStatus, jQxhr) {
+                var obj = data;
+                if (obj.id == 0) {
+                    $("#idOutput").val("Error creating user");
+                }
+                else
+                {
+                    $("#idOutput").val(obj.id);
+                }
+               
+
+                console.log(obj.id.val());
+            },
+            error: function (jqXhr, textStatus, errorThrown) {
+                console.log(errorThrown);
+                $("#idOutput").val("Error creating user");
+            }
+        });
+    }
+
+
+    function GetUser() {
+        $.ajax({
+            url: '/api/BankOperations/User/' + $('#idInput').val(),
+            type: 'get',
+            contentType: 'application/json',
+            processData: false,
+            success: function (data, textStatus, jQxhr) {
+                var obj = data;
+                if ((obj.firstName == "") || (obj.lastName == "")) {
+                    $("#idInput").val("Error retrieving user");
+                }
+                else
+                {
+                    $("#fnameOutput").val(obj.firstName);
+                    $("#lnameOutput").val(obj.lastName);
+                }
+       
+            },
+            error: function (jqXhr, textStatus, errorThrown) {
+                console.log(errorThrown);
+                $("#idInput").val("Error retrieving user");
+
+            }
+        });
+    }
+
+</script>

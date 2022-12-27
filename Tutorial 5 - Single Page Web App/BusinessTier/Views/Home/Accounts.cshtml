@@ -1,0 +1,170 @@
+﻿@{
+    ViewBag.Title = "Accounts";
+}
+
+<h1>Deposit</h1>
+<form>
+    <br />
+    <label>Account ID</label>
+    <input type="text" id="accountIDInput" name="accountIDInput" placeholder='Account ID' />
+
+    <label>Deposit Amount ($)</label>
+    <input type="text" id="amountInput" name="amountInput" placeholder='Deposit Amount' />
+
+    <label>Result</label>
+    <input type="text" id="resultOutput" name="resultOutput" placeholder='Result' />
+    <br />
+</form>
+<button id="depositButton" onclick="Deposit()">Deposit</button>
+
+<h1>Withdraw</h1>
+<form>
+    <br />
+    <label>Account ID</label>
+    <input type="text" id="withdrawAccountIDInput" name="withdrawAccountIDInput" placeholder='Account ID' />
+
+    <label>Withdraw Amount ($)</label>
+    <input type="text" id="withdrawAmountInput" name="withdrawAmountInput" placeholder='Withdraw Amount' />
+
+    <label>Result</label>
+    <input type="text" id="withdrawResultOutput" name="withdrawResultOutput" placeholder='Result' />
+    <br />
+</form>
+<button id="withdrawButton" onclick="Withdraw()">Withdraw</button>
+
+<h1>Create Account</h1>
+<form>
+    <br />
+    <label>User ID*</label>
+    <input type="text" id="userIDInput" name="userIDInput" placeholder='User ID' />
+
+    <label>Account ID</label>
+    <input type="text" id="accountIDOutput" name="accountIDOutput" placeholder='Account ID' />
+
+    <label>Balance</label>
+    <input type="text" id="balanceOutput1" name="balanceOutput1" placeholder='Balance' />
+</form>
+<button id="createAccountButton" onclick="CreateAccount()">Create Account</button>
+<br />
+
+<h1>View Account</h1>
+<form>
+    <br />
+    <label>Account ID*</label>
+    <input type="text" id="accountIDInput" name="accountIDInput" placeholder='Account ID' />
+
+    <label>User ID</label>
+    <input type="text" id="userIDOutput" name="userIDOutput" placeholder='User ID' />
+
+    <label>Balance</label>
+    <input type="text" id="balanceOutput2" name="balanceOutput2" placeholder='Balance' />
+    <br />
+</form>
+<button id="getAccountButton" onclick="GetAccount()">Retrieve Account Information</button>
+
+<script>
+
+    function Deposit() {
+        $.ajax({
+            url: '/api/BankOperations/Deposit/' + $('#accountIDInput').val() + '/' + $('#amountInput').val(),
+            type: 'get',
+            contentType: 'application/json',
+            processData: false,
+            success: function (data, textStatus, jQxhr) {
+                var obj = data;
+                if (obj > 0) {
+                    $("#resultOutput").val('Deposited $' + obj);
+                }
+                else {
+                    $("#resultOutput").val('Unsuccessful Deposit.')
+                }
+            },
+            error: function (jqXhr, textStatus, errorThrown) {
+                console.log(errorThrown);
+                $("#resultOutput").val('Unsuccessful Deposit.')
+            }
+        });
+    }
+
+    function Withdraw() {
+        console.log("creating user");
+        $.ajax({
+            url: '/api/BankOperations/Withdraw/' + $('#withdrawAccountIDInput').val() + '/' + $('#withdrawAmountInput').val(),
+            type: 'get',
+            contentType: 'application/json',
+            processData: false,
+            success: function (data, textStatus, jQxhr) {
+                var obj = data;
+                if (obj > 0) {
+                    $("#withdrawResultOutput").val('Withdrew $' + obj);
+                }
+                else {
+                    $("#withdrawResultOutput").val('Unsuccessful Withdrawal.')
+                }
+
+                console.log(obj.id.val());
+            },
+            error: function (jqXhr, textStatus, errorThrown) {
+                console.log(errorThrown);
+                $("#withdrawResultOutput").val("Unsuccessful Withdrawal");
+            }
+        });
+    }
+
+
+    function CreateAccount() {
+        $.ajax({
+            url: '/api/BankOperations/CreateAccount/' + $('#userIDInput').val(),
+            type: 'get',
+            contentType: 'application/json',
+            processData: false,
+            success: function (data, textStatus, jQxhr) {
+                var obj = data;
+                if ((obj.id == 0) || (obj.accountBalance == 0)) {
+                    $("#accountIDOutput").val("Error creating account");
+                }
+                else
+                {
+                    $("#accountIDOutput").val(obj.id);
+                    $("#balanceOutput1").val(obj.accountBalance);
+                }
+
+
+
+
+            },
+
+            error: function (jqXhr, textStatus, errorThrown) {
+                console.log(errorThrown);
+                $("#accountIDOutput").val("Error creating account");
+            }
+        });
+    }
+
+    function GetAccount() {
+        $.ajax({
+            url: '/api/BankOperations/Account/' + $('#accountIDInput').val(),
+            type: 'get',
+            contentType: 'application/json',
+            processData: false,
+            success: function (data, textStatus, jQxhr) {
+                var obj = data;
+                if ((obj.userID == 0) || (obj.accountBalance == 0)) {
+                    $("#userIDOutput").val("Error viewing account");
+                }
+                else
+                {
+                    $("#userIDOutput").val(obj.userID);
+                    $("#balanceOutput2").val(obj.accountBalance);
+                }
+            },
+
+            error: function (jqXhr, textStatus, errorThrown) {
+                console.log(errorThrown);
+                $("#userIDOutput").val("Error viewing account");
+            }
+        });
+    }
+
+
+</script>

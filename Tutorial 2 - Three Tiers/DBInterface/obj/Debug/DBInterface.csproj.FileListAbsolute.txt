@@ -1,0 +1,12 @@
+C:\Users\19754655\Documents\T01 - updated\DBInterface\obj\Debug\DBInterface.csproj.CoreCompileInputs.cache
+C:\Users\19754655\Documents\T01 - updated\DBInterface\obj\Debug\DBInterface.csprojAssemblyReference.cache
+C:\Users\19754655\Documents\T01 - updated\DBInterface\bin\Debug\DBInterface.dll
+C:\Users\19754655\Documents\T01 - updated\DBInterface\bin\Debug\DBInterface.pdb
+C:\Users\19754655\Documents\T01 - updated\DBInterface\obj\Debug\DBInterface.dll
+C:\Users\19754655\Documents\T01 - updated\DBInterface\obj\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\DBInterface\bin\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\DBInterface\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\DBInterface\obj\Debug\DBInterface.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\DBInterface\obj\Debug\DBInterface.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\DBInterface\obj\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\DBInterface\obj\Debug\DBInterface.pdb

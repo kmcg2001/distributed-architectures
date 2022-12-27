@@ -1,0 +1,206 @@
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\WebService.dll.config
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\WebService.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\WebService.pdb
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\csc.exe
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\csc.exe.config
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\csc.rsp
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\csi.exe
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\csi.exe.config
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\csi.rsp
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.AppContext.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Console.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.IO.Compression.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Net.Http.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Net.Sockets.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.ValueTuple.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\vbc.exe
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\vbc.exe.config
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\vbc.rsp
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Antlr3.Runtime.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\ClientClasses.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\IronPython.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\IronPython.Modules.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\IronPython.SQLite.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\IronPython.Wpf.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Microsoft.Dynamic.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Microsoft.Scripting.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Microsoft.Scripting.Metadata.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Newtonsoft.Json.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\RestSharp.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Net.Http.Formatting.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.Helpers.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.Http.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.Http.WebHost.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.Mvc.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.Optimization.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.Razor.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.WebPages.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\WebGrease.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\ClientClasses.pdb
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\IronPython.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\IronPython.Modules.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\IronPython.SQLite.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\IronPython.Wpf.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Microsoft.Dynamic.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Microsoft.Scripting.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Microsoft.Scripting.Metadata.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\RestSharp.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Newtonsoft.Json.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Net.Http.Formatting.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.Helpers.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.Http.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.Http.WebHost.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.Mvc.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.Optimization.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.Razor.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.WebPages.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Antlr3.Runtime.pdb
+C:\Users\super\source\repos\Tutorial 6\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\super\source\repos\Tutorial 6\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\super\source\repos\Tutorial 6\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Tutorial 6\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\super\source\repos\Tutorial 6\WebService\obj\Debug\WebService.dll
+C:\Users\super\source\repos\Tutorial 6\WebService\obj\Debug\WebService.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\WebService.dll.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\WebService.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\WebService.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\csc.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\csc.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\csc.rsp
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\csi.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\csi.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\csi.rsp
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.AppContext.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Console.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Globalization.Calendars.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.IO.Compression.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Net.Http.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Net.Sockets.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.ValueTuple.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Xml.XPath.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\vbc.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\vbc.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\vbc.rsp
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\VBCSCompiler.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Antlr3.Runtime.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\ClientClasses.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\IronPython.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\IronPython.Modules.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\IronPython.SQLite.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\IronPython.Wpf.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Microsoft.Dynamic.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Microsoft.Scripting.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Microsoft.Scripting.Metadata.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Newtonsoft.Json.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\RestSharp.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Net.Http.Formatting.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.Helpers.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.Http.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.Http.WebHost.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.Mvc.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.Optimization.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.Razor.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.WebPages.Deployment.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.WebPages.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.WebPages.Razor.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\WebGrease.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\ClientClasses.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\IronPython.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\IronPython.Modules.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\IronPython.SQLite.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\IronPython.Wpf.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Microsoft.Dynamic.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Microsoft.Scripting.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Microsoft.Scripting.Metadata.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\RestSharp.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Newtonsoft.Json.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Net.Http.Formatting.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.Helpers.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.Http.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.Http.WebHost.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.Mvc.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.Optimization.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.Razor.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.WebPages.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.WebPages.Deployment.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\System.Web.WebPages.Razor.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Antlr3.Runtime.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\obj\Debug\WebService.csproj.CopyComplete
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\obj\Debug\WebService.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\WebService\obj\Debug\WebService.pdb

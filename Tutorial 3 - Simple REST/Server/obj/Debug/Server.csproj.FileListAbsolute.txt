@@ -1,0 +1,60 @@
+I:\DC\T01\T01\Server\obj\Debug\Server.csprojAssemblyReference.cache
+I:\DC\T01\T01\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\Server\bin\Debug\Server.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\Server\bin\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\Server\bin\Debug\Server.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\Server\bin\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\Server\bin\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\Server\obj\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\Server\obj\Debug\Server.pdb
+C:\Users\19754655\Documents\T01 - updated\Server\bin\Debug\Server.exe.config
+C:\Users\19754655\Documents\T01 - updated\Server\bin\Debug\Server.exe
+C:\Users\19754655\Documents\T01 - updated\Server\bin\Debug\Server.pdb
+C:\Users\19754655\Documents\T01 - updated\Server\bin\Debug\DataStuff.dll
+C:\Users\19754655\Documents\T01 - updated\Server\bin\Debug\DataStuff.pdb
+C:\Users\19754655\Documents\T01 - updated\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\19754655\Documents\T01 - updated\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\19754655\Documents\T01 - updated\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\19754655\Documents\T01 - updated\Server\obj\Debug\Server.exe
+C:\Users\19754655\Documents\T01 - updated\Server\obj\Debug\Server.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\Server\bin\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\Server\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\Server\bin\Debug\Server.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\Server\bin\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\Server\bin\Debug\Server.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\Server\bin\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\Server\bin\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\Server\bin\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\Server\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\Server\obj\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\Server\obj\Debug\Server.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\Server\bin\Debug\Server.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\Server\bin\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\Server\bin\Debug\Server.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\Server\bin\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\Server\bin\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\Server\bin\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\Server\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\Server\obj\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\Server\obj\Debug\Server.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\Server\bin\Debug\Server.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\Server\bin\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\Server\bin\Debug\Server.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\Server\bin\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\Server\bin\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\Server\bin\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\Server\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\Server\obj\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\Server\obj\Debug\Server.pdb

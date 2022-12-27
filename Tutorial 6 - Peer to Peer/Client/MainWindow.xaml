@@ -1,0 +1,23 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Job Request" HorizontalAlignment="Left" Margin="54,77,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="inputTextBox" HorizontalAlignment="Left" Height="23" Margin="166,80,0,0" TextWrapping="Wrap" Text="Python Input" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Jobs Completed" HorizontalAlignment="Left" Margin="499,300,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="jobsCompletedTextBox" HorizontalAlignment="Left" Height="23" Margin="611,303,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Current Job" HorizontalAlignment="Left" Margin="54,220,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.353,0.714"/>
+        <Label Content="Result Returned" HorizontalAlignment="Left" Margin="54,127,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="resultTextBook" HorizontalAlignment="Left" Height="23" Margin="166,131,0,0" TextWrapping="Wrap" Text="Result Returned" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="316,83,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="submitJobButton" Content="Submit Job" HorizontalAlignment="Left" Margin="316,83,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="viewCurrentJobButton" Content="View Current Job" HorizontalAlignment="Left" Margin="316,224,0,0" VerticalAlignment="Top" Width="94" RenderTransformOrigin="0.623,0.839"/>
+        <TextBox x:Name="currentJobTextBox" HorizontalAlignment="Left" Height="23" Margin="166,224,0,0" TextWrapping="Wrap" Text="Current Job" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

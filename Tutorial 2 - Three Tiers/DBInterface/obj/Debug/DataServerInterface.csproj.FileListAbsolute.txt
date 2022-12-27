@@ -1,0 +1,6 @@
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\DBInterface\bin\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\DBInterface\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\DBInterface\obj\Debug\DataServerInterface.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\DBInterface\obj\Debug\DataServerInterface.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\DBInterface\obj\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\DBInterface\obj\Debug\DBInterface.pdb

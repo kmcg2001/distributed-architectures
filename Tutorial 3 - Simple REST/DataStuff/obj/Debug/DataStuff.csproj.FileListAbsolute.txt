@@ -1,0 +1,36 @@
+I:\DC\T01\T01\DataStuff\obj\Debug\DataStuff.csprojAssemblyReference.cache
+I:\DC\T01\T01\DataStuff\obj\Debug\DataStuff.csproj.CoreCompileInputs.cache
+I:\DC\T01\T01\DataStuff\bin\Debug\DataStuff.dll
+I:\DC\T01\T01\DataStuff\bin\Debug\DataStuff.pdb
+I:\DC\T01\T01\DataStuff\obj\Debug\DataStuff.dll
+I:\DC\T01\T01\DataStuff\obj\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\DataStuff\bin\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\DataStuff\bin\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\DataStuff\obj\Debug\DataStuff.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\DataStuff\obj\Debug\DataStuff.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\DataStuff\obj\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\DataStuff\obj\Debug\DataStuff.pdb
+C:\Users\19754655\Documents\T01 - updated\DataStuff\bin\Debug\DataStuff.dll
+C:\Users\19754655\Documents\T01 - updated\DataStuff\bin\Debug\DataStuff.pdb
+C:\Users\19754655\Documents\T01 - updated\DataStuff\obj\Debug\DataStuff.csprojAssemblyReference.cache
+C:\Users\19754655\Documents\T01 - updated\DataStuff\obj\Debug\DataStuff.csproj.CoreCompileInputs.cache
+C:\Users\19754655\Documents\T01 - updated\DataStuff\obj\Debug\DataStuff.dll
+C:\Users\19754655\Documents\T01 - updated\DataStuff\obj\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\DataStuff\bin\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\DataStuff\bin\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\DataStuff\obj\Debug\DataStuff.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\DataStuff\obj\Debug\DataStuff.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\DataStuff\obj\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\DataStuff\obj\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\DataStuff\bin\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\DataStuff\bin\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\DataStuff\obj\Debug\DataStuff.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\DataStuff\obj\Debug\DataStuff.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\DataStuff\obj\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2 DRAFT\DataStuff\obj\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\DataStuff\bin\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\DataStuff\bin\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\DataStuff\obj\Debug\DataStuff.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\DataStuff\obj\Debug\DataStuff.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\DataStuff\obj\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\DataStuff\obj\Debug\DataStuff.pdb

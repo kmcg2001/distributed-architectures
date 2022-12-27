@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<html>
+<head>
+    <title>Scoreboard</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body onload="ShowScoreboard()">
+    <h1> Scoreboard </h1>
+    <div id="Scoreboard"> </div>
+</body>
+    
+    <script>
+        function ShowScoreboard() {
+            $.ajax({
+                url: '/RequestClientList',
+                type: 'get',
+                processData: false,
+                success: function (clientList, t, j) {
+                    for (var i in clientList) {
+                        $('#Scoreboard').append("<br/>");
+                        $('#Scoreboard').append("ip: " + clientList[i].ip);
+                        $('#Scoreboard').append(" // port: " + clientList[i].port);
+                        $('#Scoreboard').append(" // jobs completed: " + clientList[i].jobsCompleted);
+                    }
+                },
+                error: function (j, t, e) {
+                    console.log("Error occur:" + e);
+                }
+            });
+        }
+    </script>
+
+</html>
+
+

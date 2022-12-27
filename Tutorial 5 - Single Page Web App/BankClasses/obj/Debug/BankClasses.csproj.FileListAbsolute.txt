@@ -1,0 +1,6 @@
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T04\Tutorial 4\BankClasses\bin\Debug\BankClasses.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T04\Tutorial 4\BankClasses\bin\Debug\BankClasses.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T04\Tutorial 4\BankClasses\obj\Debug\BankClasses.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T04\Tutorial 4\BankClasses\obj\Debug\BankClasses.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T04\Tutorial 4\BankClasses\obj\Debug\BankClasses.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T04\Tutorial 4\BankClasses\obj\Debug\BankClasses.pdb

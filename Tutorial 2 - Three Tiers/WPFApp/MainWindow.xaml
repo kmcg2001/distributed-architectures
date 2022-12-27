@@ -1,0 +1,31 @@
+﻿<Window x:Class="WPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp"
+        mc:Ignorable="d"
+        Title="AccountViewer" Height="450" Width="746.456">
+    <Grid Margin="0,0,-8,0">
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="41,148,0,0" TextWrapping="Wrap" Text="First Name" VerticalAlignment="Top" Width="120" Name="firstNameText" IsReadOnly="True"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="180,148,0,0" TextWrapping="Wrap" Text="Last Name" VerticalAlignment="Top" Width="120" Name="lastNameText" IsReadOnly="True"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="322,148,0,0" TextWrapping="Wrap" Text="Account Number" VerticalAlignment="Top" Width="120" Name="acctNoText" IsReadOnly="True"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="460,148,0,0" TextWrapping="Wrap" Text="PIN" VerticalAlignment="Top" Width="120" x:Name="pinText" IsReadOnly="True"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="601,148,0,0" TextWrapping="Wrap" Text="Balance" VerticalAlignment="Top" Width="120" Name="balanceText" IsReadOnly="True"/>
+        <TextBox HorizontalAlignment="Left" Height="33" Margin="148,301,0,0" TextWrapping="Wrap" Text="Index" VerticalAlignment="Top" Width="120" x:Name="indexTextBox"/>
+        <Button x:Name="goButton" Content="GO" HorizontalAlignment="Left" Margin="289,301,0,0" VerticalAlignment="Top" Width="98" Click = "GoButton_Click" Height="79"/>
+        <Label x:Name="totalLabel" Content="Total items:" HorizontalAlignment="Left" Margin="53,348,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.424,0.586"/>
+        <Label Content="Index:" HorizontalAlignment="Left" Margin="53,301,0,0" VerticalAlignment="Top" Height="34" Width="90"/>
+        <Label Content="First Name" HorizontalAlignment="Left" Margin="41,106,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.555,-0.558"/>
+        <Label Content="Last Name" HorizontalAlignment="Left" Margin="180,106,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Account Number" HorizontalAlignment="Left" Margin="322,106,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="PIN" HorizontalAlignment="Left" Margin="460,106,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Balance" HorizontalAlignment="Left" Margin="601,106,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="searchButton" Content="SEARCH" HorizontalAlignment="Left" Margin="646,351,0,0" VerticalAlignment="Top" Width="75" Click="SearchButton_OnClick"/>
+        <TextBox x:Name="searchText" HorizontalAlignment="Left" Height="26" Margin="433,348,0,0" TextWrapping="Wrap" Text="search" VerticalAlignment="Top" Width="190"/>
+        <Label Content="Last Name to Search" HorizontalAlignment="Left" Margin="433,301,0,0" VerticalAlignment="Top" Height="34" Width="147"/>
+        <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="24" Margin="43,216,0,0" VerticalAlignment="Top" Width="678"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+C:\Users\super\source\repos\Tutorial 6\ClientClasses\bin\Debug\ClientClasses.dll
+C:\Users\super\source\repos\Tutorial 6\ClientClasses\bin\Debug\ClientClasses.pdb
+C:\Users\super\source\repos\Tutorial 6\ClientClasses\obj\Debug\ClientClasses.csprojAssemblyReference.cache
+C:\Users\super\source\repos\Tutorial 6\ClientClasses\obj\Debug\ClientClasses.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Tutorial 6\ClientClasses\obj\Debug\ClientClasses.dll
+C:\Users\super\source\repos\Tutorial 6\ClientClasses\obj\Debug\ClientClasses.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\ClientClasses\bin\Debug\ClientClasses.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\ClientClasses\bin\Debug\ClientClasses.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\ClientClasses\obj\Debug\ClientClasses.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\ClientClasses\obj\Debug\ClientClasses.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\ClientClasses\obj\Debug\ClientClasses.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\ClientClasses\obj\Debug\ClientClasses.pdb

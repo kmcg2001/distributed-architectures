@@ -1,0 +1,68 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<html>
+<head>
+    <title>Prime Bank</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+    <div id="Accounts">
+        <br />
+        <button onclick="ShowAccounts()">Accounts</button>
+        <button onclick="ShowTransactions()">Transactions</button>
+        <button onclick="ShowUsers()">Users</button>
+    </div>
+    <div id="Content">
+    </div>
+    <script>
+		function ShowAccounts()
+		{
+			$.ajax({
+                url: 'http://localhost:58979/Home/Accounts',
+				type: 'get',
+				processData: false,
+				success: function (d,t,j){
+					$('#Content').html(d);
+				},
+				error: function(j,t,e){
+					console.log("Error occur:" + e);
+				}
+			});
+		}
+
+        function ShowTransactions() {
+            $.ajax({
+                url: 'http://localhost:58979/Home/Transactions',
+                type: 'get',
+                processData: false,
+                success: function (d, t, j) {
+                    $('#Content').html(d);
+                },
+                error: function (j, t, e) {
+                    console.log("Error occur:" + e);
+                }
+            });
+        }
+
+        function ShowUsers() {
+            $.ajax({
+                url: 'http://localhost:58979/Home/Users',
+                type: 'get',
+                processData: false,
+                success: function (d, t, j) {
+                    $('#Content').html(d);
+                },
+                error: function (j, t, e) {
+                    console.log("Error occur:" + e);
+                }
+            });
+        }
+	</script>
+
+
+</body>
+</html>
+
+

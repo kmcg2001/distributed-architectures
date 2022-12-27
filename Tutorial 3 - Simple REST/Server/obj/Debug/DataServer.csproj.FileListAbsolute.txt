@@ -1,0 +1,36 @@
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\Server\bin\Debug\Server.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\Server\bin\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\Server\bin\Debug\Server.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\Server\bin\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\Server\bin\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\Server\bin\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\Server\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\Server\obj\Debug\DataServer.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\Server\obj\Debug\DataServer.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\Server\obj\Debug\DataServer.csproj.CopyComplete
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\Server\obj\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 2\Server\obj\Debug\Server.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3 fk\Server\obj\Debug\DataServer.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3 fk\Server\obj\Debug\DataServer.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3 fk\Server\obj\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3 fk\Server\obj\Debug\Server.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3 fk\Server\bin\Debug\Server.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3 fk\Server\bin\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3 fk\Server\bin\Debug\Server.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3 fk\Server\bin\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3 fk\Server\bin\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3 fk\Server\bin\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3 fk\Server\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3 fk\Server\obj\Debug\DataServer.csproj.CopyComplete
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\Server\bin\Debug\Server.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\Server\bin\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\Server\bin\Debug\Server.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\Server\bin\Debug\DataStuff.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\Server\bin\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\Server\bin\Debug\DataStuff.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\Server\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\Server\obj\Debug\DataServer.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\Server\obj\Debug\DataServer.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\Server\obj\Debug\DataServer.csproj.CopyComplete
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\Server\obj\Debug\Server.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 3\Server\obj\Debug\Server.pdb

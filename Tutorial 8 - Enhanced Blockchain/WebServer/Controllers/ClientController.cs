@@ -1,0 +1,49 @@
+﻿using APIClasses;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Net.Http;
+using System.Web.Http;
+using WebServer.Models;
+
+namespace WebServer.Controllers
+{
+    /// <summary>
+    ///  file name: ClientController.cs
+    ///  author: Kade McGarraghy
+    ///  purpose: api controller for methods to support multiple clients and concurrent job access
+    ///  date: 24/05/21
+    /// </summary>
+    public class ClientController : ApiController
+    {
+        /// <summary>
+        /// retrieves whole list of clients
+        /// </summary>
+        /// <returns></returns>
+        [Route("RequestClientList")]
+        [HttpGet]
+        public List<Client> RequestClientList()
+        {
+            return ClientListModel.clients;
+        }
+
+        /// <summary>
+        /// updates job count for client
+        /// </summary>
+        /// <param name="clientNum"></param>
+        [Route("Register")]
+        [Route("Register/{inIp}/{inPort}")]
+        [HttpGet]
+        public uint Register(string inIp, uint inPort)
+        {
+            Client client = new Client();
+            client.id = (uint)ClientListModel.clients.Count;
+            client.ip = inIp;
+            client.port = inPort;
+            ClientListModel.clients.Add(client);
+            return client.id;
+        }
+
+    }
+}

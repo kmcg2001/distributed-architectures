@@ -1,0 +1,12 @@
+C:\Users\super\source\repos\Tutorial 6\Lib\bin\Debug\Lib.dll
+C:\Users\super\source\repos\Tutorial 6\Lib\bin\Debug\Lib.pdb
+C:\Users\super\source\repos\Tutorial 6\Lib\obj\Debug\Lib.csprojAssemblyReference.cache
+C:\Users\super\source\repos\Tutorial 6\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Tutorial 6\Lib\obj\Debug\Lib.dll
+C:\Users\super\source\repos\Tutorial 6\Lib\obj\Debug\Lib.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\Lib\bin\Debug\Lib.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\Lib\bin\Debug\Lib.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\Lib\obj\Debug\Lib.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\Lib\obj\Debug\Lib.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 6\Tutorial 6\Lib\obj\Debug\Lib.pdb

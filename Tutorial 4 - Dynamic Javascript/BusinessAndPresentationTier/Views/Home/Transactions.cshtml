@@ -1,0 +1,94 @@
+﻿@{
+    ViewBag.Title = "Transactions";
+}
+
+<h1>Make Transaction</h1>
+<form>
+    <br />
+    <label>From</label>
+    <input type="text" id="senderInput" name="senderInput" placeholder='Sending Account*' />
+
+    <label>To</label>
+    <input type="text" id="receiverInput" name="receiverInput" placeholder='Recipient*' />
+
+    <label>Amount</label>
+    <input type="text" id="amountInput" name="amountInput" placeholder='Amount*' />
+
+    <label>Transaction ID</label>
+    <input type="text" id="idOutput" name="idOutput" placeholder='Transaction ID' />
+    <br />
+</form>
+<button id="createTransactionButton" onclick="CreateTransaction()">Create Transaction</button>
+
+<h1>View Transaction</h1>
+<form>
+    <br />
+    <label>Transaction ID</label>
+    <input type="text" id="idInput" name="idInput" placeholder='Transaction ID*' />
+
+    <label>Sender</label>
+    <input type="text" id="senderOutput" name="senderOutput" placeholder='Sender' />
+
+    <label>Recipient</label>
+    <input type="text" id="receiverOutput" name="receiverOutput" placeholder='Receiver' />
+
+    <label>Amount</label>
+    <input type="text" id="amountOutput" name="amountOutput" placeholder='Amount' />
+    <br />
+</form>
+<button id="getTransactionButton" onclick="GetTransaction()">View Transaction</button>
+
+<script>
+    function CreateTransaction() {
+        $.ajax({
+            url: '/api/BankOperations/CreateTransaction/' + $('#senderInput').val() + '/' + $('#receiverInput').val() + '/' + $('#amountInput').val(),
+            type: 'get',
+            contentType: 'application/json',
+            processData: false,
+            success: function (data, textStatus, jQxhr) {
+                var obj = data;
+                if (obj.id == 0) {
+                    $("#idOutput").val("Error creating transaction");
+                }
+                else 
+                {
+                    $("#idOutput").val(obj.id);
+                }
+                console.log(obj.id.val());
+            },
+            error: function (jqXhr, textStatus, errorThrown) {
+                console.log(errorThrown);
+                $("#idOutput").val("Error creating transaction");
+            }
+        });
+    }
+
+
+    function GetTransaction() {
+        $.ajax({
+            url: '/api/BankOperations/Transaction/' + $('#idInput').val(),
+            type: 'get',
+            contentType: 'application/json',
+            processData: false,
+            success: function (data, textStatus, jQxhr) {
+                var obj = data;
+                if ((obj.sendingAccountID == 0) || (obj.receivingAccountID == 0) || (obj.amount == 0))
+                {
+                    $("#amountOutput").val("Transaction not found");
+                }
+                else
+                {
+                    $("#senderOutput").val(obj.sendingAccountID);
+                    $("#receiverOutput").val(obj.receivingAccountID);
+                    $("#amountOutput").val(obj.amount);
+                }
+    
+            },
+            error: function (jqXhr, textStatus, errorThrown) {
+                console.log(errorThrown);
+                $("#amountOutput").val("Transaction not found");
+            }
+        });
+    }
+
+</script>
