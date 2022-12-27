@@ -1,0 +1,72 @@
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\WPFApp.csprojAssemblyReference.cache
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\App.g.cs
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+C:\Users\19754655\Documents\T01 - updated\WPFApp\bin\Debug\WPFApp.exe.config
+C:\Users\19754655\Documents\T01 - updated\WPFApp\bin\Debug\WPFApp.exe
+C:\Users\19754655\Documents\T01 - updated\WPFApp\bin\Debug\WPFApp.pdb
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\MainWindow.baml
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\WPFApp.g.resources
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\WPFApp.csproj.CoreCompileInputs.cache
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\WPFApp.csproj.CopyComplete
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\WPFApp.exe
+C:\Users\19754655\Documents\T01 - updated\WPFApp\obj\Debug\WPFApp.pdb
+C:\Users\19754655\Documents\T01 - updated\WPFApp\bin\Debug\DBInterface.dll
+C:\Users\19754655\Documents\T01 - updated\WPFApp\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\bin\Debug\WPFApp.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\bin\Debug\WPFApp.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\bin\Debug\WPFApp.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\bin\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\WPFApp.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\MainWindow.g.cs
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\App.g.cs
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\MainWindow.baml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\WPFApp.g.resources
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\WPFApp.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\WPFApp.csproj.CopyComplete
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\WPFApp.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\T01\T01 - updated\WPFApp\obj\Debug\WPFApp.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\bin\Debug\WPFApp.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\bin\Debug\WPFApp.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\bin\Debug\WPFApp.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\bin\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\WPFApp.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\MainWindow.g.cs
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\App.g.cs
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\MainWindow.baml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\WPFApp.g.resources
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\WPFApp.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\WPFApp.csproj.CopyComplete
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\WPFApp.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1 Test\WPFApp\obj\Debug\WPFApp.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\bin\Debug\WPFApp.exe.config
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\bin\Debug\WPFApp.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\bin\Debug\WPFApp.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\bin\Debug\DBInterface.dll
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\bin\Debug\DBInterface.pdb
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\WPFApp.csprojAssemblyReference.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\MainWindow.g.cs
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\App.g.cs
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\MainWindow.baml
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\WPFApp.g.resources
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\WPFApp.csproj.CoreCompileInputs.cache
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\WPFApp.csproj.CopyComplete
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\WPFApp.exe
+D:\Users\super\Desktop\UNI 2021\SEM 1\DC\Assignment 2\Tutorial 1\WPFApp\obj\Debug\WPFApp.pdb
